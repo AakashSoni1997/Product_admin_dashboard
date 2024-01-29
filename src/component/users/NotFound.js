@@ -18,7 +18,7 @@ const NotFound = () => {
         <Typography variant="h5" color="textSecondary" paragraph>
           Under Process.
         </Typography>
-        <Button variant="contained" color="primary" href="/">
+        <Button variant="contained" color="primary" href="/dashboard">
           Go to Home
         </Button>
       </Grid>
